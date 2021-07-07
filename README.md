@@ -5,9 +5,9 @@ issue. In addition, please include your device OS version, brand and model name 
 
 ## Google Play Store
 
-[Android testing link](https://play.google.com/store/apps/details?id=com.cswkim.disceyes)
+[Join the test from Android](https://play.google.com/store/apps/details?id=com.cswkim.disceyes)
 
-[Web testing link](https://play.google.com/apps/testing/com.cswkim.disceyes)
+[Join the test from the web](https://play.google.com/apps/testing/com.cswkim.disceyes)
 
 ## App Store
 
