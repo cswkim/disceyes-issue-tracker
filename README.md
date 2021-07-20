@@ -11,4 +11,5 @@ issue. In addition, please include your device OS version, brand and model name 
 
 ## App Store
 
-iOS beta coming soon.
+Install [TestFlight](https://apps.apple.com/us/app/testflight/id899247664) on your iPhone or iPad
+and then [join the test](https://testflight.apple.com/join/XECpwkLR).
